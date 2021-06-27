@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @celsomineiro
+- 👀 I’m interested in programing languages
+- 🌱 I’m currently learning Python
